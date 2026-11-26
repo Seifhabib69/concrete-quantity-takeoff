@@ -1,4 +1,4 @@
-# concrete-takeoff
+# concrete-quantity-takeoff
 
 A small, auditable **concrete quantity takeoff** tool for structural engineers.
 You list footings, columns (necks), beams (tie/strap beams) and slabs in an Excel
